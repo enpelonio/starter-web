@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 ## Deployment
 
 In T-minus 30 seconds
+
+### Copyright
+2014.Git Training 
